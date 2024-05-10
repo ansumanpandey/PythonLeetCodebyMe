@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\LEADSOC\\source\\repos\\PythonLeetCodebyMe\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LEADSOC\\Source\\Repos\\PythonLeetCodebyMe\\443. String Compression.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:443. String Compression.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LEADSOC\\source\\repos\\PythonLeetCodebyMe\\283. Move Zeroes(sol2).py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:283. Move Zeroes(sol2).py||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LEADSOC\\Source\\Repos\\PythonLeetCodebyMe\\443. String Compression.md||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:443. String Compression.md||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LEADSOC\\Source\\Repos\\PythonLeetCodebyMe\\283. Move Zeroes(sol1).py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:283. Move Zeroes(sol1).py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LEADSOC\\Source\\Repos\\PythonLeetCodebyMe\\283. Move Zeroes.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:283. Move Zeroes.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,27 +35,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "443. String Compression.py",
-              "DocumentMoniker": "C:\\Users\\LEADSOC\\Source\\Repos\\PythonLeetCodebyMe\\443. String Compression.py",
-              "RelativeDocumentMoniker": "443. String Compression.py",
-              "ToolTip": "C:\\Users\\LEADSOC\\Source\\Repos\\PythonLeetCodebyMe\\443. String Compression.py",
-              "RelativeToolTip": "443. String Compression.py",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAuwBoAAAAIAAAA",
+              "Title": "283. Move Zeroes(sol2).py",
+              "DocumentMoniker": "C:\\Users\\LEADSOC\\source\\repos\\PythonLeetCodebyMe\\283. Move Zeroes(sol2).py",
+              "RelativeDocumentMoniker": "283. Move Zeroes(sol2).py",
+              "ToolTip": "C:\\Users\\LEADSOC\\source\\repos\\PythonLeetCodebyMe\\283. Move Zeroes(sol2).py",
+              "RelativeToolTip": "283. Move Zeroes(sol2).py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-05-09T11:51:27.954Z",
+              "WhenOpened": "2024-05-10T10:52:35.047Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "443. String Compression.md",
-              "DocumentMoniker": "C:\\Users\\LEADSOC\\Source\\Repos\\PythonLeetCodebyMe\\443. String Compression.md",
-              "RelativeDocumentMoniker": "443. String Compression.md",
-              "ToolTip": "C:\\Users\\LEADSOC\\Source\\Repos\\PythonLeetCodebyMe\\443. String Compression.md",
-              "RelativeToolTip": "443. String Compression.md",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAgwCIAAAAAAAAA",
+              "Title": "283. Move Zeroes(sol1).py",
+              "DocumentMoniker": "C:\\Users\\LEADSOC\\Source\\Repos\\PythonLeetCodebyMe\\283. Move Zeroes(sol1).py",
+              "RelativeDocumentMoniker": "283. Move Zeroes(sol1).py",
+              "ToolTip": "C:\\Users\\LEADSOC\\Source\\Repos\\PythonLeetCodebyMe\\283. Move Zeroes(sol1).py",
+              "RelativeToolTip": "283. Move Zeroes(sol1).py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-10T10:51:31.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "283. Move Zeroes.md",
+              "DocumentMoniker": "C:\\Users\\LEADSOC\\Source\\Repos\\PythonLeetCodebyMe\\283. Move Zeroes.md",
+              "RelativeDocumentMoniker": "283. Move Zeroes.md",
+              "ToolTip": "C:\\Users\\LEADSOC\\Source\\Repos\\PythonLeetCodebyMe\\283. Move Zeroes.md",
+              "RelativeToolTip": "283. Move Zeroes.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-05-09T11:49:54.998Z",
+              "WhenOpened": "2024-05-10T10:50:34.701Z",
               "EditorCaption": ""
             }
           ]
